@@ -1,0 +1,16 @@
+{
+  "name": "ng-playground",
+  "version": "1.0.0",
+  "description": "Repository qui me sert à faire des tests sur angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular/cli": "^15.1.1",
+    "rimraf": "^4.1.0"
+  }
+}
